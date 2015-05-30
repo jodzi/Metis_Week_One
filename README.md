@@ -1,4 +1,4 @@
-# week1_challenges
+# Metis Week One
 
 - MTA Challenges code
 - Benson code
